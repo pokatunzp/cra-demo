@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cra-demo/static/css/main.2cce8147.chunk.css",
+    "main.js": "/cra-demo/static/js/main.47687f07.chunk.js",
+    "main.js.map": "/cra-demo/static/js/main.47687f07.chunk.js.map",
+    "runtime~main.js": "/cra-demo/static/js/runtime~main.52efd976.js",
+    "runtime~main.js.map": "/cra-demo/static/js/runtime~main.52efd976.js.map",
+    "static/js/2.b41502e9.chunk.js": "/cra-demo/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/cra-demo/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/cra-demo/index.html",
+    "precache-manifest.ecc9e78594d82298967edce2f9b7695d.js": "/cra-demo/precache-manifest.ecc9e78594d82298967edce2f9b7695d.js",
+    "service-worker.js": "/cra-demo/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/cra-demo/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/cra-demo/static/media/logo.5d5d9eef.svg"
+  }
+}
